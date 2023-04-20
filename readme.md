@@ -4,6 +4,12 @@ Ce programme implémente l'algorithme de prim en C qui permet de trouver l'arbre
 # UTILISATION 
 Vous pouvez utiliser le makefile pour compiler. Pour cela il suffit d'écrire la commande shell : `make all`
 
-Après avoir exécuter le code au moins une fois et installer graphViz sur votre ordinateur, vous pouvez utiliser les commandes `make vis` et `make tree` pour générer le graphe valué et l'abre couvant valué du graphe saisi par entrée clavier lors de la dernière exécution du programme. 
+Après avoir exécuter le code au moins une fois et installer graphViz sur votre ordinateur, vous pouvez utiliser les commandes `make vis` et `make tree` pour générer le graphe valué et l'arbre couvant valué du graphe saisi par entrée clavier lors de la dernière exécution du programme. 
 
 Vous pouvez également supprimer les fichiers objets avec le makefile avec la commande : `make clean`
+
+## Graphe valué 
+![](vis.png)
+
+## Arbre couvrant valué
+![](arbre.png)
