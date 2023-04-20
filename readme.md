@@ -8,7 +8,7 @@ Après avoir exécuter le code au moins une fois et installer graphViz sur votre
 
 Vous pouvez également supprimer les fichiers objets avec le makefile avec la commande : `make clean`
 
-## Graphe valué 
+## Graphe valué
 ![](vis.png)
 
 ## Arbre couvrant valué
